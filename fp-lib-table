@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MCO-1510A")(type "KiCad")(uri "${KIPRJMOD}/MCO-1510A.pretty")(options "")(descr ""))
+)
